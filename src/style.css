@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css?family=Exo+2:400,700,900&display=swap");
+
+body {
+  font-family: "Exo 2", sans-serif;
+}
+
+.header {
+  font-size: 40px;
+  font-weight: 900;
+  text-align: center;
+  margin: 20px;
+}
+
+.board {
+  margin: auto;
+  overflow: hidden;
+  outline: none;
+  border: 6px solid #000;
+  border-radius: 4px;
+  background: linear-gradient(to bottom, #e6cf53, #f8b455, #ffaf3f);
+  opacity: 0.9;
+  box-shadow: 5px 5px 10px #111;
+}
+
+.cell,
+.body-cell,
+.food-cell {
+  width: 30px;
+  height: 30px;
+  float: left;
+  overflow: hidden;
+  box-sizing: border-box;
+}
+
+.body-cell {
+  background-color: rgb(1, 145, 1);
+  border-radius: 8px;
+  border: 1px solid darkgreen;
+  box-shadow: 4px 4px 8px darkgreen;
+}
+
+.food-cell {
+  background-image: url(assets/apple.png);
+}
