@@ -1,3 +1,16 @@
+# Snake Game
+
+### See [DEMO](https://paulinastefanska.github.io/snakeGame)
+
+### Create-React-App exercise
+
+## Tech stack
+
+- HTML, SASS,
+- JavaScript ES6,
+- React / JSX,
+- Yarn.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
