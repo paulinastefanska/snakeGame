@@ -6,7 +6,7 @@
 
 ## Tech stack
 
-- HTML, SASS,
+- HTML, CSS,
 - JavaScript ES6,
 - React / JSX,
 - Yarn.
